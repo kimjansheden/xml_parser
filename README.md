@@ -5,6 +5,7 @@ A simple Python script to extract the value from a specific XML element based on
 
 - Python 3.x
 - BeautifulSoup4
+- lxml
 
 ## Installation
 
@@ -12,7 +13,7 @@ A simple Python script to extract the value from a specific XML element based on
 2. Install the required packages using pip:
 
 ```python
-pip install beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## Usage
